@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubedns-amd64:1.9
+FROM k8s.gcr.io/coredns:1.3.1
 MAINTAINER mritd <mritd@mritd.me>
